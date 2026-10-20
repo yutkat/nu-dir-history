@@ -18,7 +18,13 @@ Nushell port of [zsh-dir-history](https://github.com/yutkat/zsh-dir-history).
 
 ## Install
 
-Clone the repository, then add to your `config.nu`:
+Clone the repository:
+
+```sh
+git clone https://github.com/yutkat/nu-dir-history.git /path/to/nu-dir-history
+```
+
+then add to your `config.nu`:
 
 ```nu
 use /path/to/nu-dir-history/nu-dir-history
