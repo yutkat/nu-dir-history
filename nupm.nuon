@@ -1,0 +1,7 @@
+{
+    name: nu-dir-history
+    type: module
+    version: "0.1.0"
+    description: "Browser-style back/forward navigation over your `cd` history in Nushell."
+    license: "LICENSE"
+}
